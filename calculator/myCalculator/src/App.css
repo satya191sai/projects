@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.grid {
+  padding: 10px;
+  margin: auto;
+}
+.grid button{
+  width: 80px;
+  height: 60px;
+}
+.grid div {
+  font-size: 25px;
+  display: flex;
+  padding: 10px;
+  margin: auto;
+  gap: 25px;
+}
+.inputField{
+  width: 100%;
+  height: 50px;
+  font-size: 24px;
+  text-align: left;
+  margin-bottom: 10px;
+}
